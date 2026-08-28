@@ -1,54 +1,66 @@
 <div align="center">
 
-# Community Skill Index
+# Awesome Video Skills
 
-### Open-source agent skills worth bookmarking
+### Open-source agent skills for making better videos
 
-Discover creators, preview real work, and find the starting point for your next project.
+From story and visual direction to motion, audio, rendering, and final review.
 
 [![English](https://img.shields.io/badge/Language-English-171713?style=for-the-badge)](README.md)
 [![中文](https://img.shields.io/badge/语言-中文-F15731?style=for-the-badge)](README.zh-CN.md)
 
 [![Curated](https://img.shields.io/badge/CURATED-BY%20ELLA-F15731?style=flat-square)](https://github.com/ella-wang-opus)
-[![Skills](https://img.shields.io/badge/SKILLS-7-171713?style=flat-square)](#skill-directory)
+[![Skills](https://img.shields.io/badge/SKILLS-13-171713?style=flat-square)](#core-video-production)
 [![Status](https://img.shields.io/badge/STATUS-UPDATED%20REGULARLY-4C9A50?style=flat-square)](#suggest-a-skill)
 
 </div>
 
 ---
 
-## Skill Directory
+## What belongs here?
 
-> Video entries use a GIF or cover image. Click a preview to watch the full video. Click a vote badge, then add a 👍 reaction on GitHub.
+The index is **video-first**. The main collection contains installable agent skills and skill suites that materially help produce a finished video: research, scripting, storyboards, asset generation, motion design, editing, captions, audio, rendering, or QA.
 
-| Preview | Skill | Category | Creator | Description | Vote |
+Visual skills live in a smaller supporting collection when they can improve a video's art direction, 3D elements, source material, or captured product experience.
+
+> Click a preview to see the full demo. To vote, click a vote badge and add a 👍 reaction on its GitHub Issue. README counts may take 2–5 minutes to refresh.
+
+## Core Video Production
+
+| Preview | Skill | Focus | Creator | What it helps you make | Vote |
 | :---: | --- | :---: | --- | --- | :---: |
-| [<img src="https://raw.githubusercontent.com/Alisa0808/vox-director/main/assets/thumbs/tang.jpg" width="210" alt="Vox Director preview">](https://raw.githubusercontent.com/Alisa0808/vox-director/main/assets/showcase-tang.mp4) | [**Vox Director ↗**](https://github.com/Alisa0808/vox-director) | `Video` | [@Alisa0808](https://github.com/Alisa0808) | Turns one topic into a finished Vox-style paper-collage explainer. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fcommunity-skill-index%2Fissues%2F1&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/community-skill-index/issues/1) |
-| [<img src="https://img.youtube.com/vi/gcVvRM_P3SM/maxresdefault.jpg" width="210" alt="Video Shotcraft preview">](https://youtu.be/gcVvRM_P3SM) | [**Video Shotcraft ↗**](https://github.com/Vincentwei1021/video-shotcraft) | `Video` | [@Vincentwei1021](https://github.com/Vincentwei1021) | Creates cinematic product videos with Remotion and 152 shot recipe cards. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fcommunity-skill-index%2Fissues%2F2&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/community-skill-index/issues/2) |
-| [<img src="https://raw.githubusercontent.com/haidrrrry/claude-remotion-skill/main/demo.gif" width="210" alt="Claude Remotion Skill preview">](https://raw.githubusercontent.com/haidrrrry/claude-remotion-skill/main/demo.mp4) | [**Claude Remotion Skill ↗**](https://github.com/haidrrrry/claude-remotion-skill) | `Video` | [@haidrrrry](https://github.com/haidrrrry) | Adds motion design, B-roll, captions, sound design, and frame-by-frame QA to Remotion. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fcommunity-skill-index%2Fissues%2F3&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/community-skill-index/issues/3) |
-| [<img src="https://opengraph.githubassets.com/1/Bomx/super-video-maker-skill" width="210" alt="Super Video Maker preview">](https://github.com/Bomx/super-video-maker-skill) | [**Super Video Maker ↗**](https://github.com/Bomx/super-video-maker-skill) | `Video` | [@Bomx](https://github.com/Bomx) | An end-to-end pipeline for avatars, AI B-roll, screen recording, captions, and QC. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fcommunity-skill-index%2Fissues%2F4&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/community-skill-index/issues/4) |
-| [<img src="https://raw.githubusercontent.com/nateherkai/scroll-craft/main/media/orrery.webp" width="210" alt="Scroll Craft preview">](https://github.com/nateherkai/scroll-craft) | [**Scroll Craft ↗**](https://github.com/nateherkai/scroll-craft) | `Web` | [@nateherkai](https://github.com/nateherkai) | Turns scroll into a timeline for immersive, self-verified narrative websites. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fcommunity-skill-index%2Fissues%2F5&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/community-skill-index/issues/5) |
-| [<img src="https://raw.githubusercontent.com/MengTo/threeui/main/assets/preview.jpg" width="210" alt="ThreeUI preview">](https://raw.githubusercontent.com/MengTo/threeui/main/assets/preview.webm) | [**ThreeUI ↗**](https://github.com/MengTo/threeui) | `3D UI` | [@MengTo](https://github.com/MengTo) | An open catalog of interactive Three.js components with complete source. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fcommunity-skill-index%2Fissues%2F6&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/community-skill-index/issues/6) |
-| [<img src="https://raw.githubusercontent.com/LiamGvchi/gc-minimal-zine-poster/main/examples/moon-tide.jpeg" width="210" alt="Minimal Zine Poster preview">](https://github.com/LiamGvchi/gc-minimal-zine-poster) | [**Minimal Zine Poster ↗**](https://github.com/LiamGvchi/gc-minimal-zine-poster) | `Visual` | [@LiamGvchi](https://github.com/LiamGvchi) | Generates quiet, minimal zine-style editorial posters and prompts. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fcommunity-skill-index%2Fissues%2F7&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/community-skill-index/issues/7) |
+| [<img src="https://raw.githubusercontent.com/zenstory-ai/drama-skills/main/docs/assets/dashboard-zh.png" width="190" alt="Drama Skills preview">](https://github.com/zenstory-ai/drama-skills) | [**Drama Skills ↗**](https://github.com/zenstory-ai/drama-skills) | `Short drama` | [@zenstory-ai](https://github.com/zenstory-ai) | A ten-skill suite for scripts, assets, storyboards, image/video prompts, production, and independent review. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F8&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/8) |
+| [<img src="https://opengraph.githubassets.com/1/calesthio/OpenMontage" width="190" alt="OpenMontage preview">](https://github.com/calesthio/OpenMontage) | [**OpenMontage ↗**](https://github.com/calesthio/OpenMontage) | `Full studio` | [@calesthio](https://github.com/calesthio) | An agentic production studio with pipelines for research, scripts, generated or archival footage, editing, audio, and delivery. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F9&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/9) |
+| [<img src="https://raw.githubusercontent.com/heygen-com/hyperframes/main/docs/public/images/hyperframes-logo-motion-1280-trimmed.webp" width="190" alt="HyperFrames preview">](https://hyperframes.heygen.com/showcase) | [**HyperFrames ↗**](https://github.com/heygen-com/hyperframes) | `HTML video` | [@heygen-com](https://github.com/heygen-com) | Twenty agent skills for turning HTML, CSS, media, and seekable animation into deterministic MP4 videos. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F10&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/10) |
+| [<img src="https://opengraph.githubassets.com/1/remotion-dev/remotion" width="190" alt="Remotion Agent Skills preview">](https://github.com/remotion-dev/remotion/tree/main/packages/skills) | [**Remotion Agent Skills ↗**](https://github.com/remotion-dev/remotion/tree/main/packages/skills) | `Official toolkit` | [@remotion-dev](https://github.com/remotion-dev) | Official skills for creating, animating, captioning, previewing, and rendering Remotion projects. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F11&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/11) |
+| [<img src="https://raw.githubusercontent.com/Alisa0808/vox-director/main/assets/thumbs/tang.jpg" width="190" alt="Vox Director preview">](https://raw.githubusercontent.com/Alisa0808/vox-director/main/assets/showcase-tang.mp4) | [**Vox Director ↗**](https://github.com/Alisa0808/vox-director) | `Explainer` | [@Alisa0808](https://github.com/Alisa0808) | Turns one topic into a finished Vox-style paper-collage explainer with narration, music, and captions. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F1&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/1) |
+| [<img src="https://img.youtube.com/vi/gcVvRM_P3SM/maxresdefault.jpg" width="190" alt="Video Shotcraft preview">](https://youtu.be/gcVvRM_P3SM) | [**Video Shotcraft ↗**](https://github.com/Vincentwei1021/video-shotcraft) | `Product video` | [@Vincentwei1021](https://github.com/Vincentwei1021) | Creates cinematic product videos with Remotion, 152 shot recipes, page captures, SFX, and QA. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F2&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/2) |
+| [<img src="https://raw.githubusercontent.com/haidrrrry/claude-remotion-skill/main/demo.gif" width="190" alt="Claude Remotion Skill preview">](https://raw.githubusercontent.com/haidrrrry/claude-remotion-skill/main/demo.mp4) | [**Claude Remotion Skill ↗**](https://github.com/haidrrrry/claude-remotion-skill) | `Motion graphics` | [@haidrrrry](https://github.com/haidrrrry) | Adds motion design, B-roll, captions, sound design, and frame-by-frame QA to Remotion. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F3&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/3) |
+| [<img src="https://opengraph.githubassets.com/1/Bomx/super-video-maker-skill" width="190" alt="Super Video Maker preview">](https://github.com/Bomx/super-video-maker-skill) | [**Super Video Maker ↗**](https://github.com/Bomx/super-video-maker-skill) | `Full pipeline` | [@Bomx](https://github.com/Bomx) | Covers avatars, AI B-roll, screen recording, Remotion, captions, music, and final technical QC. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F4&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/4) |
+| [<img src="https://raw.githubusercontent.com/BayramAnnakov/remotion-video-director/main/promo.gif" width="190" alt="Remotion Video Director preview">](https://github.com/BayramAnnakov/remotion-video-director/releases/download/v2.1.0/promo.mp4) | [**Remotion Video Director ↗**](https://github.com/BayramAnnakov/remotion-video-director) | `Creative direction` | [@BayramAnnakov](https://github.com/BayramAnnakov) | Guides strategy, scenario design, production, voiceover, music, and review for Remotion videos. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F12&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/12) |
+| [<img src="https://raw.githubusercontent.com/hyt315/notebook-video/main/assets/demo/notebook-video-demo.webp" width="190" alt="Notebook Video preview">](https://raw.githubusercontent.com/hyt315/notebook-video/main/assets/demo/notebook-video-demo.mp4) | [**Notebook Video ↗**](https://github.com/hyt315/notebook-video) | `Education` | [@hyt315](https://github.com/hyt315) | Produces warm notebook-style educational videos with code-drawn scenes, Chinese TTS timing, and automated QA. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F13&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/13) |
 
-## Categories
+## Visual Support
 
-| Category | Count | Includes |
-| --- | :---: | --- |
-| 🎬 Video | 4 | Explainers, product films, Remotion motion design, and full production pipelines |
-| 🖥️ Web | 1 | Scroll-driven storytelling and immersive websites |
-| ◉ 3D UI | 1 | Interactive Three.js components |
-| ◐ Visual | 1 | Editorial design and poster generation |
+These are not full video-production workflows. They are included because they can improve source visuals, spatial elements, art direction, or the product experiences captured in a video.
+
+| Preview | Skill | Supports | Creator | How it helps video work | Vote |
+| :---: | --- | :---: | --- | --- | :---: |
+| [<img src="https://raw.githubusercontent.com/nateherkai/scroll-craft/main/media/orrery.webp" width="190" alt="Scroll Craft preview">](https://github.com/nateherkai/scroll-craft) | [**Scroll Craft ↗**](https://github.com/nateherkai/scroll-craft) | `Web capture` | [@nateherkai](https://github.com/nateherkai) | Builds premium scroll-driven experiences that can become product-video source material. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F5&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/5) |
+| [<img src="https://raw.githubusercontent.com/MengTo/threeui/main/assets/preview.jpg" width="190" alt="ThreeUI preview">](https://raw.githubusercontent.com/MengTo/threeui/main/assets/preview.webm) | [**ThreeUI ↗**](https://github.com/MengTo/threeui) | `3D elements` | [@MengTo](https://github.com/MengTo) | Supplies reusable Three.js interactions and spatial ideas for richer motion scenes. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F6&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/6) |
+| [<img src="https://raw.githubusercontent.com/LiamGvchi/gc-minimal-zine-poster/main/examples/moon-tide.jpeg" width="190" alt="Minimal Zine Poster preview">](https://github.com/LiamGvchi/gc-minimal-zine-poster) | [**Minimal Zine Poster ↗**](https://github.com/LiamGvchi/gc-minimal-zine-poster) | `Art direction` | [@LiamGvchi](https://github.com/LiamGvchi) | Generates quiet editorial poster language that can guide keyframes, titles, and video packaging. | [![Vote](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fella-wang-opus%2Fawesome-video-skills%2Fissues%2F7&query=%24.reactions.%2B1&label=%F0%9F%91%8D&color=F15731&style=flat-square)](https://github.com/ella-wang-opus/awesome-video-skills/issues/7) |
 
 ## Suggest a Skill
 
-Found an open-source skill that belongs here? [Open an issue](https://github.com/ella-wang-opus/community-skill-index/issues/new) with:
+Found an open-source skill that belongs here? [Open an issue](https://github.com/ella-wang-opus/awesome-video-skills/issues/new) with:
 
-- GitHub repository URL
-- Creator
+- GitHub repository URL and creator
+- The video-production stage it supports
 - One-sentence description
 - Preview image, GIF, or video URL
-- Suggested category
+- Whether it belongs in **Core Video Production** or **Visual Support**
+
+Projects should provide an installable `SKILL.md` workflow or a clearly documented agent-skill suite. General video libraries and prompt-only collections are out of scope.
 
 ---
 
