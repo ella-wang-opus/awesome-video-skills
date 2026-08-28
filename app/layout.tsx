@@ -19,11 +19,13 @@ export const metadata: Metadata = {
     title: 'Community Skill Index',
     description: '值得收藏的开源 Agent Skills，持续更新。',
     type: 'website',
+    images: [{ url: '/og.png', width: 1200, height: 630, alt: 'Community Skill Index' }],
   },
   twitter: {
-    card: 'summary',
+    card: 'summary_large_image',
     title: 'Community Skill Index',
     description: '值得收藏的开源 Agent Skills，持续更新。',
+    images: ['/og.png'],
   },
 };
 

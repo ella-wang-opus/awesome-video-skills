@@ -57,7 +57,7 @@ export default function Home() {
     <main>
       <nav className="topbar" aria-label="Main navigation">
         <a className="brand" href="#top" aria-label="Community Skill Index home"><span className="brand-mark">C/S</span><span>Community Skill Index</span></a>
-        <div className="nav-actions"><span className="status"><i />持续更新</span><a className="github-link" href="https://github.com/ella-wang-opus" target="_blank" rel="noreferrer">GitHub <ArrowIcon /></a></div>
+        <div className="nav-actions"><span className="status"><i />持续更新</span><a className="github-link" href="https://github.com/ella-wang-opus/community-skill-index" target="_blank" rel="noreferrer">GitHub <ArrowIcon /></a></div>
       </nav>
 
       <section className="hero" id="top">
@@ -100,7 +100,7 @@ export default function Home() {
 
       <section className="contribute">
         <span className="section-number">02</span><div><p>KNOW A GREAT SKILL?</p><h2>让好作品被更多人看见。</h2></div>
-        <a href="https://github.com/ella-wang-opus" target="_blank" rel="noreferrer">推荐一个 Skill <ArrowIcon /></a>
+        <a href="https://github.com/ella-wang-opus/community-skill-index/issues/new" target="_blank" rel="noreferrer">推荐一个 Skill <ArrowIcon /></a>
       </section>
       <footer><span>Curated by Ella Wang</span><span>Last reviewed · Aug 2026</span><span>Open source, always evolving.</span></footer>
     </main>
